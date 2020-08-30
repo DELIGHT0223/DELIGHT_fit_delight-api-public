@@ -4,7 +4,7 @@
 
 Getting User Step Ranking
 ```
-\$ curl -s GET https://api.genki.fit/users/ranking
+$ curl -s GET https://api.genki.fit/users/ranking
 ```
 
 #### Parameters
